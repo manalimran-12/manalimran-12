@@ -1,176 +1,78 @@
-# 👋 Hi, I'm Manal Imran
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Manal%20Imran&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-🚀 **Software Engineer | React | React Native | Next.js | Node.js**
-🌍 Open to **Remote / International Opportunities**
+# 🚀 Looking for a developer who can ship real products, not just code?
+
+## 👋 Hi, I'm Manal Imran  
+💻 Software Engineer | React | React Native | Next.js | Node.js  
+🌍 Open to Remote Opportunities  
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C9A7&size=22&center=true&vCenter=true&width=500&lines=Building+Scalable+Apps;React+%7C+Next.js+%7C+React+Native;Open+to+Remote+Opportunities)
 
 ---
 
-## 💫 About Me
-
-I'm a **Software Engineer with 3+ years of experience** building scalable web and mobile applications.
-
-I specialize in crafting **high-performance, user-centric products** using modern technologies like React, Next.js, and React Native — backed by solid backend systems and cloud integrations.
-
-I enjoy turning complex problems into **clean, efficient, and impactful solutions** — whether it's a startup MVP or a production-scale application.
+## ⚡ What I Do
+- 📱 Build high-performance mobile apps  
+- 🌐 Develop scalable web applications  
+- ⚙️ Create robust APIs & backend systems  
+- ☁️ Deploy on AWS, Firebase, GCP  
+- 🔗 Integrate payments, auth & third-party services  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-
-* React.js, Next.js
-* React Native
-* Tailwind CSS, Material UI, Bootstrap
-* GSAP, Framer Motion
-
-### ⚙️ Backend
-
-* Node.js, Express.js, Fastify, Nest.js
-* FastAPI, Flask
-
-### 🧠 State Management
-
-* Redux Toolkit / RTK Query
-* React Query
-* Zustand
-
-### 🗄️ Databases
-
-* MongoDB
-* PostgreSQL
-* SQL
-
-### ☁️ Cloud & DevOps
-
-* AWS (EC2, S3, SQS)
-* Firebase
-* Google Cloud Platform
-* Docker, Redis
-
-### 🔧 Tools & Others
-
-* Git & GitHub
-* Jira, Trello, ClickUp
-* Mixpanel
-* REST APIs & Microservices
-* AI / LLM Integrations (HuggingFace)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Nest](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 💼 Work Experience
-
-### 🧑‍💻 Software Engineer — HashPotato *(2025 – Present)*
-
-* Built scalable web & mobile apps using React Native, Next.js, Nest.js
-* Improved app performance and reduced load time by **20%**
-* Integrated **Stripe subscription billing system**
-* Developed microservices using AWS & GCP
-* Followed CI/CD and best engineering practices
+## 💼 Experience Snapshot
+✔ 3+ years building real-world applications  
+✔ Software Engineer @ HashPotato  
+✔ Built apps for international clients  
+✔ Improved app performance by 20%  
 
 ---
 
-### 💻 Associate Software Engineer — 360XpertSolutions *(2023 – 2025)*
-
-* Developed responsive UI with strong UX focus
-* Collaborated with designers for pixel-perfect implementation
-* Conducted usability testing and improved product experience
-
----
-
-### 🌍 Freelancer *(2023 – 2025)*
-
-* Delivered solutions to international clients
-* Built full-stack apps using React, Next.js & React Native
-* Integrated APIs, authentication & payment systems
-* Managed complete project lifecycle
+## 🚀 Highlight Projects
+- 🧠 AI Disease Prediction System (ML + FastAPI)  
+- 🏃 Marathon Management App (React Native)  
+- 🌍 Immigration Platform (Global users)  
+- 📊 Employee Performance System  
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-### 🧠 Disease Prediction System (FYP)
+![Manal's GitHub stats](https://github-readme-stats.vercel.app/api?username=manalimran-12&show_icons=true&theme=tokyonight)
 
-* Desktop app using Electron.js + FastAPI
-* Integrated ML models for real-time disease prediction
-
----
-
-### 🏃 Checkpoint Spot (Marathon App)
-
-* React Native mobile app
-* Redux Toolkit + API integration
-* Converted Figma → production UI
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manalimran-12&layout=compact&theme=tokyonight)
 
 ---
 
-### 🏙️ Korangi City Lab Website
-
-* Built using React + Vite + Tailwind
-* Smooth animations with Framer Motion
-* Fully responsive & accessible UI
-
----
-
-### 📊 Employee Performance System
-
-* Full-stack app (React Native + Node.js + PostgreSQL)
-* Performance tracking & analytics
+## 🧠 What Makes Me Valuable
+✔ I solve real business problems  
+✔ I build scalable, production-ready systems  
+✔ I focus on performance & clean UI  
+✔ I deliver fast and reliably  
 
 ---
 
-### 🌐 Immigration Services Website
+## 📬 Let's Connect
 
-* SEO-optimized responsive website
-* Designed for global users (US, Canada, UK)
-
----
-
-### 🏙️ Korangi City Lab Website
-
-* Built using React + Vite + Tailwind
-* Smooth animations with Framer Motion
-* Fully responsive & accessible UI
+🌐 Portfolio: https://manal-imran.vercel.app  
+💼 LinkedIn: https://linkedin.com/in/manal-imran  
+📧 Email: manalimran200212@gmail.com  
+💻 GitHub: https://github.com/manalimran-12  
 
 ---
 
-### 🏭 Al Jidar Steels Website
-
-* Corporate website using Next.js
-* Optimized for performance & global audience
-
----
-
-## 🎓 Education
-
-🎓 **Bachelor of Computer Science**
-University of Karachi (UBIT) *(2021 – 2025)*
-
----
-
-## 📜 Certifications
-
-* Oracle OCI Generative AI Professional *(Ongoing)*
-* Women Tech Quest Program — 10 Pearls
-* Google Developer Student Clubs (JavaScript)
-* Microsoft Learn Student Ambassador
-* IEEE AI & Robotics Symposium
-
----
-
-## 🌐 Let's Connect
-
-* 🌍 Portfolio: [https://manal-imran-flame.vercel.app](https://manal-imran-flame.vercel.app)
-* 💼 LinkedIn: [https://linkedin.com/in/manal-imran](https://linkedin.com/in/manal-imran)
-* 📧 Email: [manalimran200212@gmail.com](mailto:manalimran200212@gmail.com)
-* 💻 GitHub: [https://github.com/manalimran-12](https://github.com/manalimran-12)
-
----
-
-## ⚡ What I Bring
-
-✔ Clean, scalable code
-✔ Strong UI/UX sense
-✔ Real-world project experience
-✔ Fast learner & problem solver
-✔ Team collaboration + ownership mindset
+💡 If you're hiring someone who can actually build, not just talk — let's connect.
